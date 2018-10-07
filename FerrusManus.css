@@ -3,4 +3,14 @@
     position: fixed;
     top: 0px;
     left: 0px;
+    width: 100%;
+}
+.darkSheet{
+    background-color: black;
+    opacity: 0.8;
+    align-content: center;
+    align-items: center;
+    width: 1000px;
+    color: white;
+    padding: 25px;
 }
